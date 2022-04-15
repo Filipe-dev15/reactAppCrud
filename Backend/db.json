@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Artur Olierira saraiva",
+      "email": "aoliveira@coder.com.br"
+    },
+    {
+      "name": "Filipe Cezar Rodrigo Mendes ",
+      "email": "filipe.dev14@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "manoel Coelho",
+      "email": "Colelhojvo@gamail.con",
+      "id": 5
+    }
+  ]
+}

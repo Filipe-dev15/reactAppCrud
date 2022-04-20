@@ -6,5 +6,5 @@ export default props =>
     subtitle="REact EVIL.">
     <div className="display-4">Bem Vindo!</div>
     <hr />
-    <p>Sistema de cadastro em REACT !!!</p>
+    <p>Sistema de cadastro Voluntarios Umbrela !!!</p>
     </Main>   
